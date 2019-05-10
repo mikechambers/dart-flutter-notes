@@ -55,7 +55,6 @@ void main() {
   debugPaintSizeEnabled = true;
   runApp(MyApp());
 }
-```
 
 class MyApp extends StatelessWidget {
   @override
@@ -211,7 +210,7 @@ Column(
 
 ### Expand and Position Containers
 
-This positions a container anchored on the bottom, with the top container taking all avaliable space:
+This positions a container anchored on the bottom, with the top container taking all available space:
 
 ```dart
 Column(
